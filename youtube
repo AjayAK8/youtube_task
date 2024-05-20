@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+    <title>Youtube.com</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" 
+    integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" 
+    referrerpolicy="no-referrer" />
+    <style>div {
+        width: 30px;
+        height: 3px;
+        background-color: black;
+        margin: 6px 0;
+      }
+      
+      </style>
+</head>
+<body>
+    <div></div>
+    <div></div>
+    <div></div>
+    <a href="https://www.youtube.com/" target="_blank"><img src="youtube.jpeg" width="125px"></a><br>
+    <input type="text" placeholder="search"><br><br>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/cL9hOBbrk2A?si=uW7d7x2is7vEa37m" title="YouTube video player" frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+    <p style="font-size: 25px;">Korean Convenience store visit | Vj Siddhu Vlogs</p>
+    <p1 style="font-size: 20px;">77,410 views</p1><br><br>
+    <img src="Screenshot (45).png" width="150px" height="40px">
+    <a href="form.html" target="_blank">
+    <button style="width: 200px; height: 20px;">Subscribe</button>
+    </a>
+</body>
+</html>
